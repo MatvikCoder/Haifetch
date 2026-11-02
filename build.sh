@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "Компилируем... / Building..."
 g++ -Os source.cpp -o haifetch
 echo "Сжимаем... / Compressing..."
