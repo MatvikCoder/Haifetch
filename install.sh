@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "ЗАПУСКАТЬ ИСКЛЮЧИТЕЛЬНО С ПРАВАМИ СУПЕРПОЛЬЗОВАТЕЛЯ"
 
 echo "START ONLY FROM SUPERUSER"
